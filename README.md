@@ -1,2 +1,2 @@
-# discord-bots
-Discord.py scripts that you can use to make your own bot in Discord.
+# Life Simulator
+A text-based simulator designed to be an arcade-style game where you can live any life you wish.
